@@ -1,0 +1,24 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+#cuerpo{
+  width: 100%;
+  height: 100%;
+  background-color: #ff9000;
+  font-size: 11px;
+  font-family: Arial;
+  color:#000000;
+}
+
+#head{
+  /*height: 25px;*/
+  padding: 10px;
+  background-color: #000000;
+}
+
+#contenido{
+  text-align: center;
+  padding: 10px;
+}
